@@ -52,7 +52,9 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%2
     f. install the cover to the box
     
     https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/Sovol%20SV05%20board%20cover.stl
+    
     https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/Sovol%20SV05%20board%20cover%20fan%20nut%20plate.stl
+    
     https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/jig%20control%20box.stl
     
     
@@ -63,8 +65,7 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%2
     d. install the pi cover to the lower box
     
 
- 
- Step 8 - Electrical Connections    
+## Step 8 - Electrical Connections    
  1. Follow Step 9 of the Sovol manual to make all of the electrical connections
  2. Plug the BTT pi into the Sovol control box using a USB cable
  3. Connect 24v power from the control box to the pi
