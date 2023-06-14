@@ -3,7 +3,7 @@ This is my Sovol SV05 custom build project. I own a BLV MGN printer and wanted a
 
 Assembly:
 
-# Step 1 - Vertical Extrusions
+## Step 1 - Vertical Extrusions
 1. Follow Step 1 of the Sovol manual
     (pay attention to the note to orient the hole at the top)
 2. Remove the wiring duct
