@@ -51,7 +51,7 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%2
     
     f. install the cover to the box
     
-    
+    https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/Sovol%20SV05%20board%20cover.stl
     
 3. Mount the BTT pi to the back wall
     a. using the printed lower pi box as a jig, drill two holes in the wall and attach the lower box
