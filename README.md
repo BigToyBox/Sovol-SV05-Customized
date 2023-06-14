@@ -38,9 +38,13 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%2
 ## Step 7 - Electronics
 1. Mouunt the power supply to the back wall using the three printed brackets
 2. Mount the Control box to the back wall
+
     a. remove the control box cover
+    
     b. disassemble the fan from the cover
+    
     c. using the jig, drill two holes in the bottom of the control box
+    
     d. Mount the control box to the back wall using the same drill jig to drill the holes in the wall
     e. Install the fan on the new printed cover using the fan plate and 20 mm bolts
     f. install the cover to the box
