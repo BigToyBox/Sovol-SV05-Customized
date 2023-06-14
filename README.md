@@ -46,8 +46,13 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%2
     c. using the jig, drill two holes in the bottom of the control box
     
     d. Mount the control box to the back wall using the same drill jig to drill the holes in the wall
+    
     e. Install the fan on the new printed cover using the fan plate and 20 mm bolts
+    
     f. install the cover to the box
+    
+    
+    
 3. Mount the BTT pi to the back wall
     a. using the printed lower pi box as a jig, drill two holes in the wall and attach the lower box
     b. install the pi 
