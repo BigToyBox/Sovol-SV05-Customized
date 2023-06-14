@@ -14,8 +14,9 @@ Step 2 - Back Wall
 2. Slide the back wall in place between the rear corner posts
 
 Step 3 - Corner braces
-1. Install two printed corner braces at the front lower coners
-2. Install two printed corner braces at the side rear corners
+1. Install two printed corner braces at the front lower corners
+
+3. Install two printed corner braces at the side rear corners
 
 Step 4 - Top Structure
 1. Install the top structure following Step 2 of the Sovol manual
