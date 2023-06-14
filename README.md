@@ -28,9 +28,11 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/100mm
 3. Install the printed top corner caps
 
 https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%20cap.stl
+https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%20cap.stl
 
 
-Step 6 - Hotbed
+
+## Step 6 - Hotbed
 1. Skip to Step 6 of the Sovol manual and install the hotbed braces
 2. Go back to Step 4 of the Sovol manual and install the Z axis frame to the printer
 3. Proceed to Step 5 of the Sovol manual and install the heated bed
