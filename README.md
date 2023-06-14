@@ -8,21 +8,21 @@ Assembly:
     (pay attention to the note to orient the hole at the top)
 2. Remove the wiring duct
     
-# Step 2 - Back Wall
+## Step 2 - Back Wall
 1. Cut a piece of 1/4"/6 mm thick material to 13 1/2" x 16"
     (I used a piece of plexiglass from the local big box store) 
 2. Slide the back wall in place between the rear corner posts
 
-# Step 3 - Corner braces
+## Step 3 - Corner braces
 1. Install two printed corner braces at the front lower corners
 2. Install two printed corner braces at the side rear corners
 
 https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/100mm%20brace.stl
 
-# Step 4 - Top Structure
+## Step 4 - Top Structure
 1. Install the top structure following Step 2 of the Sovol manual
 
-# Step 5 - Front Cross Bar
+## Step 5 - Front Cross Bar
 1. Remove the top bar with "Sovol" on the front
 2. Using the printed parts, install it 70 mm above the bottom bar, inline with the top of the corner braces
 3. Install the printed top corner caps
