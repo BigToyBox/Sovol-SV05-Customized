@@ -37,7 +37,7 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%2
 3. Proceed to Step 5 of the Sovol manual and install the heated bed
 
 ## Step 7 - Electronics
-1. Mouunt the power supply to the back wall using the three printed brackets
+1. Mount the power supply to the back wall using the three printed brackets
 2. Mount the Control box to the back wall
 
     a. remove the control box cover
