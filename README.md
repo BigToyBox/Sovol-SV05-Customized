@@ -15,8 +15,8 @@ Step 2 - Back Wall
 
 Step 3 - Corner braces
 1. Install two printed corner braces at the front lower corners
-
-3. Install two printed corner braces at the side rear corners
+2. Install two printed corner braces at the side rear corners
+https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/100mm%20brace.stl
 
 Step 4 - Top Structure
 1. Install the top structure following Step 2 of the Sovol manual
