@@ -25,7 +25,9 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/100mm
 # Step 5 - Front Cross Bar
 1. Remove the top bar with "Sovol" on the front
 2. Using the printed parts, install it 70 mm above the bottom bar, inline with the top of the corner braces
-3. INstall the printed top corner caps
+3. Install the printed top corner caps
+
+
 
 Step 6 - Hotbed
 1. Skip to Step 6 of the Sovol manual and install the hotbed braces
