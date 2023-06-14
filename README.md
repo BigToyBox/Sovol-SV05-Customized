@@ -64,6 +64,8 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%2
     b. install the pi 
     c. install a fan to the printed upper cover
     d. install the pi cover to the lower box
+
+4. Print parts for power supply
     
 
 ## Step 8 - Electrical Connections    
