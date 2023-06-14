@@ -27,6 +27,7 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/100mm
 2. Using the printed parts, install it 70 mm above the bottom bar, inline with the top of the corner braces
 3. Install the printed top corner caps
 
+
 https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%20cap.stl
 https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%20cap.stl
 
