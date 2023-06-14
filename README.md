@@ -52,6 +52,7 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%2
     f. install the cover to the box
     
     https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/Sovol%20SV05%20board%20cover.stl
+    https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/Sovol%20SV05%20board%20cover.stl
     https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/jig%20control%20box.stl
     
     
