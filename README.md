@@ -30,14 +30,12 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/100mm
 https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%20cap.stl
 https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%20cap.stl
 
-
-
 ## Step 6 - Hotbed
 1. Skip to Step 6 of the Sovol manual and install the hotbed braces
 2. Go back to Step 4 of the Sovol manual and install the Z axis frame to the printer
 3. Proceed to Step 5 of the Sovol manual and install the heated bed
 
-Step 7 - Electronics
+## Step 7 - Electronics
 1. Mouunt the power supply to the back wall using the three printed brackets
 2. Mount the Control box to the back wall
     a. remove the control box cover
@@ -51,6 +49,8 @@ Step 7 - Electronics
     b. install the pi 
     c. install a fan to the printed upper cover
     d. install the pi cover to the lower box
+    
+
  
  Step 8 - Electrical Connections    
  1. Follow Step 9 of the Sovol manual to make all of the electrical connections
