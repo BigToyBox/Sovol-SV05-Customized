@@ -65,13 +65,26 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%2
     c. install a fan to the printed upper cover
     d. install the pi cover to the lower box
 
-4. Print parts for power supply
+https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/BTT%20PI%20v1.2%20case%20Bottom.stl
+https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/BTT%20PI%20v1.2%20case%20Top%20Alt.stl
+
+4. Print three brackets for power supply
+
+https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/power%20supply%20bracket.stl
     
 
 ## Step 8 - Electrical Connections    
  1. Follow Step 9 of the Sovol manual to make all of the electrical connections
  2. Plug the BTT pi into the Sovol control box using a USB cable
  3. Connect 24v power from the control box to the pi
+
+
+## Optional Tool Tray
+Print the tool tray parts and install between the front cross bars
+
+https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/tool%20tray%20panel.stl
+https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/tool%20tray%20tweasers.stl
+https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/tool%20tray%20cutters.stl
  
     
 
