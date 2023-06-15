@@ -17,7 +17,7 @@ Assembly:
 1. Install two printed corner braces at the front lower corners
 2. Install two printed corner braces at the side rear corners
 
-https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/100mm%20brace.stl
+    https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/100mm%20brace.stl
 
 ## Step 4 - Top Structure
 1. Install the top structure following Step 2 of the Sovol manual
@@ -28,8 +28,8 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/100mm
 3. Install the printed top corner caps
 
 
-https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%20cap.stl
-https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%20cap.stl
+    https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%20cap.stl
+    https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%20cap.stl
 
 ## Step 6 - Hotbed
 1. Skip to Step 6 of the Sovol manual and install the hotbed braces
@@ -65,12 +65,12 @@ https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%2
     c. install a fan to the printed upper cover
     d. install the pi cover to the lower box
 
-https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/BTT%20PI%20v1.2%20case%20Bottom.stl
-https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/BTT%20PI%20v1.2%20case%20Top%20Alt.stl
+    https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/BTT%20PI%20v1.2%20case%20Bottom.stl
+    https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/BTT%20PI%20v1.2%20case%20Top%20Alt.stl
 
 4. Print three brackets for power supply
 
-https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/power%20supply%20bracket.stl
+    https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/power%20supply%20bracket.stl
     
 
 ## Step 8 - Electrical Connections    
