@@ -32,9 +32,10 @@ Assembly:
     https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/top%20cap.stl
 
 ## Step 6 - Hotbed
-1. Skip to Step 6 of the Sovol manual and install the hotbed braces
-2. Go back to Step 4 of the Sovol manual and install the Z axis frame to the printer
-3. Proceed to Step 5 of the Sovol manual and install the heated bed
+1. Skip to Step 5 of the Sovol manual and install the hotbed braces
+2. Proceed to Step 6 of the Sovol manual and install the heated bed
+3. Go back to Step 4 of the Sovol manual and install the Z axis frame to the printer
+
 
 ## Step 7 - Electronics
 1. Mount the power supply to the back wall using the three printed brackets
