@@ -35,9 +35,9 @@ Assembly:
 1. Skip to Step 5 of the Sovol manual and install the hotbed braces
 2. Proceed to Step 6 of the Sovol manual and install the heated bed
 3. Go back to Step 4 of the Sovol manual and install the Z axis frame to the printer
-4. Install the printed hotbed wire protector
+4. Install the printed hotbed cable protector
 
-    
+    https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/Sovol_SV05_htobed_cable_protection.stl
 
 
 ## Step 7 - Electronics
