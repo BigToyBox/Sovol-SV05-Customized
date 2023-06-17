@@ -70,7 +70,7 @@ Assembly:
     d. install the pi cover to the lower box
 
     https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/BTT%20PI%20v1.2%20case%20Bottom.stl
-   
+    https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/BTT%20PI%20v1.2%20case%20Top.stl
 
 4. Print three brackets for power supply
 
