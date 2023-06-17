@@ -83,7 +83,7 @@ Assembly:
  3. Connect 24v power from the control box to the pi
  4. Install two wire clamps on the right rear vertical post to hold the extruder wire loom in place. Be sure to allow enough slack when the extruder travels to the front left corner.
 
-    
+    https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/Wire%20clamp%202.stl
 
 
 ## Optional Tool Tray
