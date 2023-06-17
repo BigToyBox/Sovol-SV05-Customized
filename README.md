@@ -81,6 +81,9 @@ Assembly:
  1. Follow Step 9 of the Sovol manual to make all of the electrical connections
  2. Plug the BTT pi into the Sovol control box using a USB cable
  3. Connect 24v power from the control box to the pi
+ 4. Install two wire clamps on the right rear vertical post to hold the extruder wire loom in place. Be sure to allow enough slack when the extruder travels to the front left corner.
+
+    
 
 
 ## Optional Tool Tray
