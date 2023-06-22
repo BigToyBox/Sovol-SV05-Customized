@@ -99,7 +99,11 @@ Print the tool tray parts and install between the front cross bars
 ## Optional Y Axix belt covers
 These snap on over the Y axis pulleys 
 
-[Left Cover](Printed parts/CoverEnder5_Left_v5.stl)
+    [Left Cover](Printed parts/CoverEnder5_Left_v5.stl)
+
+    [Right Cover](Printed parts/CoverEnder5_Right.stl)
+
+    
 
     
  
