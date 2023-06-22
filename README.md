@@ -101,9 +101,9 @@ These snap on over the Y axis pulleys
 
     [Left Cover](Printed parts/CoverEnder5_Left_v5.stl)
 
-    [Right Cover](Printed parts/CoverEnder5_Right.stl)
+    [Right Cover](Printed parts/CoverEnder5_Right_v2.stl)
 
-    
+    [Snap on inner cover](Printed parts/
 
     
  
