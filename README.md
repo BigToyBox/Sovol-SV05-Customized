@@ -90,8 +90,11 @@ Assembly:
 Print the tool tray parts and install between the front cross bars
 
     https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/tool%20tray%20panel.stl
+    
     https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/tool%20tray%20tweasers.stl
+    
     https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/tool%20tray%20cutters.stl
+
 
 ## Optional Y Axix belt covers
 These snap on over the Y axis pulleys 
