@@ -96,7 +96,7 @@ Print the tool tray parts and install between the front cross bars
     https://github.com/BigToyBox/Sovol-SV05-Termite-/blob/main/Printed%20parts/tool%20tray%20cutters.stl
 
 
-## Optional Y Axix belt covers
+## Optional Y Axis belt covers
 These snap on over the Y axis pulleys 
 
     [Left Cover](Printed parts/CoverEnder5_Left_v5.stl)
